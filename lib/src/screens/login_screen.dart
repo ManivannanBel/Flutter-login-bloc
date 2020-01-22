@@ -49,7 +49,7 @@ class LoginScreen extends StatelessWidget{
           ),
         );        
       },
-    )
+    );
   }
 
   Widget submitButton(){
